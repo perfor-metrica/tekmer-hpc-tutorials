@@ -1,11 +1,11 @@
-# TEKMER HPC Documentation
+# TEKMER SÜPER BİLGİSAYAR MERKEZİ
 
-Welcome to the TEKMER HPC documentation portal.
+TEKMER HPC dökümantasyon portalına hoş geldiniz!
 
-## Available Languages
+## Dil Seçenekleri
 
-- [English](en/index.md)
 - [Türkçe](tr/index.md)
+- [English](en/index.md)
 
 ---
 
