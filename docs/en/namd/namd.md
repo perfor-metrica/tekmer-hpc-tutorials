@@ -7,14 +7,21 @@
 NAMD (Nanoscale Molecular Dynamics) is a high-performance simulation software designed for large biomolecular systems.
 
 It is widely used for:
+
 - Molecular dynamics simulations  
+
 - Protein structure analysis  
+
 - Drug discovery and computational chemistry  
+
 - Large-scale parallel simulations  
 
 NAMD is optimized for:
+
 - Parallel execution (MPI)  
+
 - High scalability on HPC clusters  
+
 - CPU and GPU acceleration  
 
 On TEKMER HPC, NAMD is available on compute nodes and can be used for both small-scale and large-scale simulations.
@@ -26,7 +33,9 @@ On TEKMER HPC, NAMD is available on compute nodes and can be used for both small
 NAMD is installed on the TEKMER HPC cluster and is available to all authorized users.
 
 It can also be used on:
+
 - Workstations  
+
 - Local Linux environments  
 
 ---
@@ -49,6 +58,7 @@ NAMD should be executed via the job scheduler (Slurm).
 
 ### Example Slurm Job Script
 
+
 ```bash
 #!/bin/bash
 #SBATCH -J namd_job
@@ -59,32 +69,36 @@ NAMD should be executed via the job scheduler (Slurm).
 module load namd
 
 srun namd2 input.conf > output.log
+```
 
 ###Submit the job:
 
+```bash
 sbatch job.sh
+```
+
 ##Performance Considerations
 
-Use multiple cores for better performance
+- Use multiple cores for better performance
 
-Test small runs before large simulations
+- Test small runs before large simulations
 
-Optimize input configuration files
+- Optimize input configuration files
 
-Consider GPU acceleration if available
 
 ##Best Practices
 
-Avoid running NAMD directly on login nodes
+- Avoid running NAMD directly on login nodes
 
-Monitor jobs using squeue
+- Monitor jobs using squeue
 
-Store only necessary output data
+- Store only necessary output data
 
-Clean temporary files after execution
+- Clean temporary files after execution
 
 ##Support
 
 For installation, optimization, or usage support:
 
-📧 contact@performetrica.com
+📧 [contact@performetrica.com](mailto:contact@performetrica.com)
+

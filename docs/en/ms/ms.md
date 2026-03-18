@@ -6,7 +6,8 @@
 This software is NOT in public use. It is available on the licenced laboratory(s).
 
 ## Installation / Help
-Installation for Windows: Please click the Tutorial link. 
+Installation for Windows: Please click the Tutorial link.
+ 
 The software can be used with both its own GUI or from the command line on the HPC login node.
 
 ## Server(s) installed

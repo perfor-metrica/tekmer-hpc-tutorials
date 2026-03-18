@@ -1,17 +1,22 @@
-# GROMACS 2025.4 Usage Guide (TEKMER HPC)
+# GROMACS 2025.4 Usage Guide
 
 ## General Information
 GROMACS is a high-performance molecular dynamics (MD) software designed for biomolecular simulations.
 
 It is optimized for:
+
 - MPI parallelism
+
 - OpenMP threading
+
 - SIMD vectorization (AVX)
 
 On TEKMER HPC:
+
 - MPI: OpenMPI 5.0.3
+
 - OpenMP: Enabled (max 128 threads)
-- GPU: Disabled
+
 - FFT: FFTW 3.3.10
 
 Executable path:

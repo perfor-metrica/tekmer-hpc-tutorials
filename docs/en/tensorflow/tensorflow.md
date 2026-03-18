@@ -55,30 +55,14 @@ python script.py
 
 ---
 
-## Example: Running TensorFlow (GPU)
-
-```bash
-#!/bin/bash
-#SBATCH --job-name=tf_gpu
-#SBATCH --partition=defq
-#SBATCH --gres=gpu:1
-#SBATCH --cpus-per-task=8
-#SBATCH --mem=32G
-#SBATCH --time=04:00:00
-
-module load TensorFlow
-
-python train.py
-```
-
----
-
 ## Performance Recommendations
 
 - Use GPU for training whenever possible
 - Match CPU threads with TensorFlow settings:
 
+```bash
       export OMP_NUM_THREADS=$SLURM_CPUS_PER_TASK
+```
 
 - Avoid oversubscribing CPU resources
 - Monitor memory usage (TensorFlow can consume large memory)
