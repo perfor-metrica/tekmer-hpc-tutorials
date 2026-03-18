@@ -9,5 +9,5 @@ TEKMER HPC dökümantasyon portalına hoş geldiniz!
 
 ---
 
-Documentation provided by  
+Dökümantasyon sağlayıcı:
 <a href="https://www.performetrica.com" target="_blank">Performetrica</a>
