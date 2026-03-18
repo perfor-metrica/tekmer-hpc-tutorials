@@ -16,13 +16,12 @@ nav:
                   - Tutorial: en/ms/pdf/ms-tutorial.pdf
               - Comsol:
                   - General Information: en/comsol/comsol.md
-                  - Tutorial: en/comsol/pdf/comsol-tutorial.pdf
               - Namd:
                   - General Information: en/namd/namd.md
-                  - Tutorial: en/namd/pdf/namd-tutorial.pdf
               - Tensorflow:
                   - General Information: en/tensorflow/tensorflow.md
-                  - Tutorial: en/tensorflow/pdf/tensorflow-tutorial.pdf
+              - GROMACS:
+                  - General Information: en/gromacs/gromacs.md
       - FAQ: en/faq.md
       - Performance Optimization Tips: en/performance.md
       - Usage Policy: en/HPC_Usage_Policy.md
@@ -37,20 +36,19 @@ nav:
           - Mevcut Yazılımlar:
               - Matlab:
                   - Genel Bilgi: tr/matlab/matlab.md
-                  - Kurulum Eğitimi: tr/matlab/pdf/matlab-tutorial.pdf
+                  - Kurulum Eğitimi (İng.): tr/matlab/pdf/matlab-tutorial.pdf
                   - Slurm Wrapper Dosyaları: tr/matlab/pdf/matlab-parallel-slurm-plugin-main.zip
               - Materials Studio:
                   - Genel Bilgi: tr/ms/ms.md
-                  - Eğitim: tr/ms/pdf/ms-tutorial.pdf
+                  - Eğitim (İng.): tr/ms/pdf/ms-tutorial.pdf
               - Comsol:
                   - Genel Bilgi: tr/comsol/comsol.md
-                  - Eğitim: tr/comsol/pdf/comsol-tutorial.pdf
               - Namd:
                   - Genel Bilgi: tr/namd/namd.md
-                  - Eğitim: tr/namd/pdf/namd-tutorial.pdf
               - Tensorflow:
                   - Genel Bilgi: tr/tensorflow/tensorflow.md
-                  - Eğitim: tr/tensorflow/pdf/tensorflow-tutorial.pdf
+              - GROMACS:
+                  - Genel Bilgi: tr/gromacs/gromacs.md
       - SSS: tr/faq.md
       - Performans İyileştirme İpuçları: tr/performance.md
       - TEKMER HPC Kullanım Politikası: tr/HPC_Kullanim_Politikasi.md

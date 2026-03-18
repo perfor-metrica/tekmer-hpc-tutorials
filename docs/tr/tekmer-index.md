@@ -137,15 +137,6 @@ export OMP_NUM_THREADS=$SLURM_CPUS_PER_TASK
 
 ---
 
-## Özet
-
-- Tekmer CPU tabanlıdır
-- Doğru Slurm parametreleri kritik
-- NUMA ve cache önemli
-- Toplam süreyi optimize edin
-
----
-
 ## Referanslar
 
 - https://slurm.schedmd.com/

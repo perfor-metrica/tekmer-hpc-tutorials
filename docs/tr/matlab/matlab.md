@@ -94,13 +94,12 @@ MATLAB paralel çalışmayı destekler:
 
 ###Örnek:
 
+```bash
 parpool(4);
-
 parfor i=1:100
-
     A(i) = heavy_function(i);
-
 end
+```
 
 ###Toolbox Bilgisi
 
