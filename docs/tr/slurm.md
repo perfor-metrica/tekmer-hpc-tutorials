@@ -18,19 +18,20 @@ Bu doküman, Tekmer HPC kümesinde Slurm kullanarak iş (job) gönderme, izleme 
 
 Kopyalayın ve düzenleyin:
 
+```bash
 mkdir -p $HOME/workfolder
-
 cd $HOME/workfolder
-
 cp /perf/shared/example_submit.sh my_experiment.sh
-
 vi my_experiment.sh
+```
 
 ---
 
 ## Job Gönderme
 
+```bash
 sbatch my_experiment.sh
+```
 
 ---
 
@@ -53,19 +54,15 @@ echo "Çalıştığı node: $(hostname)"
 
 ## Temel Komutlar
 
+```bash
 sbatch job.sh
-
 squeue
-
 squeue -u $USER
-
 scancel <jobid>
-
 sinfo
-
 scontrol show job <jobid>
-
 sacct -j <jobid>
+```
 
 ---
 
@@ -106,25 +103,12 @@ srun ./my_mpi_program
 ```
 ---
 
-## GPU Örneği (kısıtlı)
-
-```bash
-#!/bin/bash
-#SBATCH --partition=defq
-#SBATCH --gres=gpu:1
-#SBATCH --cpus-per-task=8
-#SBATCH --mem=32G
-#SBATCH --time=02:00:00
-
-python train.py
-```
----
-
 ## İzleme
 
+```bash
 squeue -u $USER
-
 sacct -j <jobid>
+```
 
 ---
 
@@ -138,5 +122,7 @@ sacct -j <jobid>
 
 ## Yazılım Listesi
 
+```bash
 module avail
+```
 

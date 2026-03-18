@@ -86,9 +86,9 @@ yükümlüdür.
 - Kullanıcı, kullanıcı adı ve şifresinin güvenliğinden sorumludur.
 - Şüpheli durumlarda derhal bildirim yapılmalıdır:
 
-    - 📧 [contact@performetrica.com](mailto:contact@performetrica.com)
-    - 📞 [+90 216 275 78 70](tel:+902162757870)
-    - WhatsApp: [ +90 533 066 49 66](https://wa.me/905330664966)
+- 📧 [contact@performetrica.com](mailto:contact@performetrica.com)
+- 📞 [+90 216 275 78 70](tel:+902162757870)
+- WhatsApp: [+90 533 066 49 66](https://wa.me/905330664966)
 
 ---
 

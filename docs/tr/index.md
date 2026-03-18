@@ -94,23 +94,19 @@ Giriş yaptığınızda home dizininizdesiniz (`~`).
 
 ### Temel Komutlar
 
-
+```bash
 pwd
-
 ls
-
 cd klasor
-
 cd ..
-
+```
 
 ### Dosya İşlemleri
 
-
+```bash
 mv dosya1 dosya2
-
 cp dosya1 dizin/
-
+```
 
 ---
 
@@ -118,15 +114,15 @@ cp dosya1 dizin/
 
 ### Yükleme
 
-
+```bash
 scp dosya username@login.tekmer.performetrica.com:/path/
-
+```
 
 ### İndirme
 
-
+```bash
 scp username@login.tekmer.performetrica.com:/path/dosya
-
+```
 
 ---
 
@@ -140,10 +136,10 @@ scp username@login.tekmer.performetrica.com:/path/dosya
 
 ## Yazılım Kullanımı
 
-
+```bash
 module avail
 module load <yazilim>
-
+```
 
 Yeni yazılım için portal üzerinden talep oluşturun.
 
@@ -155,19 +151,17 @@ Tüm işler Slurm üzerinden gönderilmelidir.
 
 ### Job Gönderimi
 
-
+```bash
 sbatch job.sh
-
+```
 
 ### Komutlar
 
-
+```bash
 squeue
-
 scancel JOBID
-
 sinfo
-
+```
 
 ---
 
