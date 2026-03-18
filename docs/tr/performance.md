@@ -86,6 +86,7 @@ Eğer uygulamanız iyi ölçekleniyorsa:
 
 ```bash
 --cpus-per-task=N
+```
 
 arttırılabilir.
 
@@ -161,12 +162,12 @@ Bunun yerine:
 
 kullanın.
 
-##5. Performans vs Kuyruk Süresi
+## 5. Performans vs Kuyruk Süresi
 
-|Strateji	|Sonuç
-
-|Büyük kaynak (çok core)	|Hızlı runtime, uzun bekleme
-|Küçük kaynak	|Hızlı başlama, uzun runtime
+| Strateji                      | Sonuç                                  |
+|------------------------------|----------------------------------------|
+| Büyük kaynak (çok core)      | Hızlı runtime, uzun bekleme            |
+| Küçük kaynak                 | Hızlı başlama, uzun runtime            |
 
 Gerçek optimizasyon:
 

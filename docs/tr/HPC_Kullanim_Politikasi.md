@@ -20,10 +20,11 @@ TEKMER HPC altyapısını kullanan tüm kullanıcılar aşağıdaki kurallara uy
 - PI, kullanıcının temel Linux ve HPC bilgisine sahip olduğunu teyit eder.
 - Hesap aktivasyonu sonrası kullanıcıya HPC sistem erişimi sağlanır.
 - Kullanıcılar portal üzerinden:
-  - Şifre yönetimi  
-  - Job gönderimi  
-  - Kullanım istatistikleri  
-  - Duyurular ve destek hizmetlerine erişim  
+
+    - Şifre yönetimi
+    - Job gönderimi
+    - Kullanım istatistikleri
+    - Duyurular ve destek hizmetlerine erişim
 
 işlemlerini gerçekleştirebilir.
 
@@ -40,8 +41,9 @@ işlemlerini gerçekleştirebilir.
 ## 4. Yazılım Kullanımı
 
 - Sistemde mevcut yazılımlar dışında:
-  - Lisanslı ve HPC uyumlu uygulamalar  
-  - Kullanıcı tarafından geliştirilen paralel uygulamalar  
+
+    - Lisanslı ve HPC uyumlu uygulamalar  
+    - Kullanıcı tarafından geliştirilen paralel uygulamalar  
 
 çalıştırılabilir.
 
@@ -53,8 +55,9 @@ işlemlerini gerçekleştirebilir.
 
 - Paylaşılan HPC sistemi uzun süreli veri depolama amacıyla kullanılamaz.
 - Kullanıcı:
-  - Verilerini düzenli olarak yedeklemekle  
-  - Çalışma sonrası verilerini silmekle  
+
+    - Verilerini düzenli olarak yedeklemekle  
+    - Çalışma sonrası verilerini silmekle  
 
 yükümlüdür.
 
@@ -82,9 +85,10 @@ yükümlüdür.
 
 - Kullanıcı, kullanıcı adı ve şifresinin güvenliğinden sorumludur.
 - Şüpheli durumlarda derhal bildirim yapılmalıdır:
-  - 📧 contact@performetrica.com  
-  - 📞 +90 216 275 78 70  
-  - WhatsApp: +90 533 066 49 66  
+
+    - 📧 [contact@performetrica.com](mailto:contact@performetrica.com)
+    - 📞 [+90 216 275 78 70](tel:+902162757870)
+    - WhatsApp: [ +90 533 066 49 66](https://wa.me/905330664966)
 
 ---
 
@@ -97,6 +101,8 @@ yükümlüdür.
 ## 10. Yayın ve Atıf Zorunluluğu
 
 TEKMER HPC kaynakları kullanılarak üretilen tüm çalışmalarda:
+
+
 - TUZLA BELEDİYESİ TEKMER A.Ş.’ye teşekkür edilmesi  
 - Yayın bilgilerinin HPC portalına girilmesi  
 
@@ -107,9 +113,14 @@ zorunludur.
 ## 11. Yasaklı Kullanımlar
 
 Aşağıdaki faaliyetler kesinlikle yasaktır:
+
+
 - Yasadışı işlemler  
+
 - Sistem güvenliğini tehdit eden uygulamalar  
+
 - İzinsiz ticari kullanım  
+
 - Başka sistemlere yönelik saldırı/test faaliyetleri  
 
 ---
@@ -131,12 +142,13 @@ Aşağıdaki faaliyetler kesinlikle yasaktır:
 ## 14. Politika ve Yaptırımlar
 
 - Bu politikaya aykırı kullanım durumunda:
-  - Hesap askıya alınabilir  
-  - Kalıcı olarak kapatılabilir  
+
+    - Hesap askıya alınabilir  
+    - Kalıcı olarak kapatılabilir  
 
 ---
 
 ## 15. Feragatname
 
-Tüm kullanıcılar, **TEKMER HPC Feragatnamesi** hükümlerini kabul etmiş sayılır.
+Tüm kullanıcılar, [**TEKMER HPC Feragatnamesi**](Feragatname.md) hükümlerini kabul etmiş sayılır.
 
