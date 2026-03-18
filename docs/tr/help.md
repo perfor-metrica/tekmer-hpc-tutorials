@@ -9,29 +9,39 @@ TEKMER HPC hizmetleri ile ilgili aşağıdaki konularda destek almak için:
 - Yazılım kurulum talepleri
 - Hata ve problem bildirimi
 
-lütfen aşağıdaki adres ile iletişime geçiniz:
+Lütfen aşağıdaki adres ile iletişime geçiniz:
 
-📧 **contact@performetrica.com**
+📧 **[contact@performetrica.com](mailto:contact@performetrica.com)**
 
 ---
 
 ## Destek Kapsamı
 
 Destek ekibi aşağıdaki konularda yardımcı olabilir:
+
 - Slurm job gönderim problemleri
+
 - Yazılım ve modül kullanımı
+
 - Çalışma zamanı hatalarının analizi
+
 - Performans iyileştirme (CPU, bellek, I/O)
-- Paralelleştirme yöntemleri (MPI, OpenMP, GPU)
+
+- Paralelleştirme yöntemleri (MPI, OpenMP)
+
 - Ortam (environment) yapılandırması
 
 ---
 
+
 ## Destek Talebi Öncesi
 
 Destek talebi oluşturmadan önce:
-- **SSS (FAQ)** bölümünü inceleyiniz
-- İlgili **dokümantasyon ve eğitimleri** kontrol ediniz
+
+- [**SSS (FAQ)**](faq.md) bölümünü inceleyiniz
+
+- İlgili [**dokümantasyon ve eğitimleri**](tekmer-index.md) kontrol ediniz
+
 - Job çıktılarınızı ve hata loglarını gözden geçiriniz
 
 Birçok yaygın problem bu kaynaklarda açıklanmıştır.
@@ -67,14 +77,14 @@ Hızlı ve doğru destek alabilmek için aşağıdaki bilgileri mutlaka ekleyini
 ## İyi ve Kötü Örnek
 
 **Kötü:**
-> Job çalışmıyor.
+> İş çalışmıyor.
 
 **İyi:**
 > Kullanıcı: user01  
 > Job ID: 123456  
 > Komut: sbatch run.sh  
 > Hata: "MPI_Init failed"  
-> Çıktı dosyası: /home/user01/job.out  
+> Çıktı dosyası: /perf/defq/user01/job.out  
 
 ---
 
@@ -89,16 +99,19 @@ Hızlı ve doğru destek alabilmek için aşağıdaki bilgileri mutlaka ekleyini
 ## En İyi Uygulamalar
 
 Daha hızlı destek almak için:
+
 - Tekrarlanabilir (reproducible) örnekler sağlayın
+
 - Büyük işlerden önce küçük testler yapın
+
 - Job scriptlerinizi düzenli ve açıklamalı tutun
+
 - Desteklenen yazılım ve modülleri kullanın
 
 ---
 
-## Gelecek Destek Kanalları
+## Ek Destek Kanalları
 
-İlerleyen süreçte aşağıdaki destek kanalları sunulabilir:
-- Ticket sistemi
-- Kullanıcı forumları
-- Eğitim ve workshoplar
+- Ticket sistemi: [tekmer.performetrica.com](https://tekmer.performetrica.com/)
+- Telefon 
+
