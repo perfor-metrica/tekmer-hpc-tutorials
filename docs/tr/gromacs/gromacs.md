@@ -1,17 +1,22 @@
-# GROMACS 2025.4 Kullanım Kılavuzu (TEKMER HPC)
+# GROMACS 2025.4 Kullanım Kılavuzu
 
 ## Genel Bilgi
 GROMACS, biyomoleküler simülasyonlar için kullanılan yüksek performanslı bir yazılımdır.
 
-Optimize edilmiştir:
+Aşağıdaki işlemler için optimize edilmiştir:
+
 - MPI paralelleştirme
+
 - OpenMP thread kullanımı
+
 - SIMD (AVX)
 
 TEKMER HPC üzerinde:
+
 - MPI: OpenMPI 5.0.3
+
 - OpenMP: aktif (128 thread’e kadar)
-- GPU: yok
+
 - FFT: FFTW 3.3.10
 
 Çalıştırılabilir dosya:

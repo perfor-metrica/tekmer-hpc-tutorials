@@ -63,22 +63,28 @@ Multi-thread uygulamalarda en kritik nokta:
 ### Örnek: Tek CPU üzerinde 24 core kullanımı
 
 #### Komut satırı:
+
 ```bash
+
 --ntasks=1 --cpus-per-task=24
+```
 
 ####Batch script:
+
+```bash
 #SBATCH --ntasks-per-node=1
 #SBATCH --cpus-per-task=24
+```
+
 ####Dikkat
 
 Büyük kaynak talebi → daha uzun queue bekleme süresi
-
-Küçük cluster’larda bu ciddi etki yaratır
 
 ###Ölçekleme
 
 Eğer uygulamanız iyi ölçekleniyorsa:
 
+```bash
 --cpus-per-task=N
 
 arttırılabilir.
@@ -87,15 +93,20 @@ Slurm davranışı:
 
 Önce aynı socket içindeki core’ları doldurur
 
-Sonra diğer socket’e geçer
+Sonra diğer socket’e geçer.
 
 ##3. Kritik Pratik Ayarlar
-###3.1 CPU Binding (Çok önemli)
+###3.1 CPU Binding 
+
+```bash
 #SBATCH --cpu-bind=cores
+```
 
 Alternatif:
 
+```bash
 #SBATCH --hint=nomultithread
+```
 
 Amaç:
 
@@ -104,45 +115,61 @@ Thread’lerin farklı core’lara sabitlenmesi
 Scheduler jitter ve migration engelleme
 
 ###3.2 Thread Sayısını Eşitleyin
+
+```bash
 export OMP_NUM_THREADS=24
+```
 
 Slurm ile uygulama uyuşmazsa:
+
 → CPU boşa gider
+
 → Performans düşer
 
 ###3.3 Oversubscription’dan Kaçının
 
 Yanlış:
 
+```bash
 --ntasks=24 --cpus-per-task=24
+```
 
 Bu durumda:
 → 576 CPU talep ediyorsunuz
 
 Doğru:
 
+```bash
 --ntasks=1 --cpus-per-task=24
+```
+
 ###4. Bu Yöntemi Ne Zaman Kullanmayın
 
 Aşağıdaki durumlarda kullanmayın:
 
-MPI uygulamaları
+- MPI uygulamaları
 
-Bağımsız task’ler (embarrassingly parallel)
+- Bağımsız task’ler (embarrassingly parallel)
 
-Multi-node workload
+- Multi-node workload
 
 Bunun yerine:
 
+```bash
 --ntasks=N
+```
 
 kullanın.
 
 ##5. Performans vs Kuyruk Süresi
-Strateji	Sonuç
-Büyük kaynak (çok core)	Hızlı runtime, uzun bekleme
-Küçük kaynak	Hızlı başlama, uzun runtime
+
+|Strateji	|Sonuç
+
+|Büyük kaynak (çok core)	|Hızlı runtime, uzun bekleme
+|Küçük kaynak	|Hızlı başlama, uzun runtime
 
 Gerçek optimizasyon:
 
 👉 Toplam turnaround time = queue + runtime
+
+

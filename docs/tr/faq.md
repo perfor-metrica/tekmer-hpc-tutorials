@@ -3,14 +3,17 @@
 # Sıkça Sorulan Sorular (SSS)
 
 ## TEKMER HPC hesabı nasıl açılır?
-1. Siz veya kurumunuz daha önce kayıtlı değilse, öncelikle TEKMER ile iletişime geçerek kayıt sürecini başlatınız:  
-   https://tuzlatekmer.com/iletisim  
+1. Siz veya kurumunuz daha önce kayıtlı değilse, öncelikle TEKMER ile iletişime geçerek kayıt olmalısınız:  
+   [TEKMER İletişim](https://tuzlatekmer.com/iletisim)
+
 2. Kullanıcı portalına gidiniz:  
-   https://tekmer.performetrica.com/  
-3. **"Online Kayıt"** seçeneğine tıklayarak formu doldurunuz.  
+   [Tekmer HPC Portal](https://tekmer.performetrica.com/)
+
+3. **"Online Kayıt"** seçeneğine tıklayarak formu doldurunuz.
+
 4. E-posta ile gönderilen adımları takip ederek hesabınızı aktive ediniz.
 
-Sorularınız için: contact@performetrica.com
+Sorularınız için: <contact@performetrica.com>
 
 ---
 
@@ -41,13 +44,16 @@ Lütfen kullanıcı adınızı belirtiniz.
 
 ## İhtiyacım olan yazılım sistemde yok. Ne yapmalıyım?
 Kullanıcı portalı üzerinden yazılım talebinde bulunabilirsiniz:  
-https://tekmer.performetrica.com/
+[Tekmer HPC Portal](https://tekmer.performetrica.com/)
 
 **"Yazılım Talebi"** bölümünü kullanınız.
 
 Talepler aşağıdaki kriterlere göre değerlendirilir:
+
 - Lisans durumu
+
 - Sistem uyumluluğu
+
 - Kaynak kullanımı
 
 ---
@@ -60,11 +66,15 @@ Gerekli görülmesi halinde ek doğrulama talep edilebilir.
 ---
 
 ## TEKMER HPC kullanım kuralları nelerdir?
-Detaylı bilgi için **TEKMER HPC Kullanım Politikası** dokümanına bakınız.
+Detaylı bilgi için [**TEKMER HPC Kullanım Politikası**](HPC_Kullanım_Politikasi.md) dokümanına bakınız.
 
 Bu dokümanda şu konular yer almaktadır:
+
 - Kabul edilebilir kullanım kuralları
+
 - Kaynak tahsisi
+
 - Güvenlik politikaları
+
 - Kullanıcı sorumlulukları
 
