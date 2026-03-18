@@ -82,15 +82,14 @@ System administrators may delete files older than **30 days** without prior noti
 
 Users are responsible for:
 
-- Protecting their credentials  
-- Reporting suspicious activity immediately  
+- Protecting their credentials
+- Reporting suspicious activity immediately
 
 Contact:
 
-    - 📧 [contact@performetrica.com](mailto:contact@performetrica.com)
-    - 📞 [+90 216 275 78 70](tel:+902162757870)
-    - WhatsApp: [ +90 533 066 49 66](https://wa.me/905330664966)
-
+- 📧 [contact@performetrica.com](mailto:contact@performetrica.com)
+- 📞 [+90 216 275 78 70](tel:+902162757870)
+- WhatsApp: [+90 533 066 49 66](https://wa.me/905330664966)
 ---
 
 ## 9. Security Reporting
