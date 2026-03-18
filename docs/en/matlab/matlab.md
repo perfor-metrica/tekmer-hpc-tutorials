@@ -146,7 +146,7 @@ Parallel usage may be limited by available licenses
 
 Excessive resource usage may result in job termination
 
-Users must follow [TEKMER HPC Usage Policy](HPC_Kullanim_Politikasi.md)
+Users must follow [TEKMER HPC Usage Policy](../../HPC_Kullanim_Politikasi.md)
 
 Servers Installed
 

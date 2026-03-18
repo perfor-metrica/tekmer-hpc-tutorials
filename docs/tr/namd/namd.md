@@ -74,25 +74,28 @@ srun namd2 input.conf > output.log
 
 ### Gönderim:
 
+```bash
 sbatch job.sh
+```
+
 ##Performans Önerileri
 
-Daha iyi performans için çok çekirdek kullanın
+- Daha iyi performans için çok çekirdek kullanın
 
-Büyük job’lardan önce küçük testler yapın
+- Büyük job’lardan önce küçük testler yapın
 
-Input dosyalarını optimize edin
+- Input dosyalarını optimize edin
 
 
 ## İyi Uygulamalar
 
-Login node üzerinde çalıştırmayın
+- Login node üzerinde çalıştırmayın
 
-squeue ile job’ları izleyin
+- squeue ile job’ları izleyin
 
-Gereksiz çıktı dosyalarını silin
+- Gereksiz çıktı dosyalarını silin
 
-Geçici dosyaları temizleyin
+- Geçici dosyaları temizleyin
 
 ## Destek
 

@@ -77,13 +77,13 @@ SSH istemcisi kullanın:
 
 Bağlantı:
 
-username@login.tekmer.performetrica.com
+**username@login.tekmer.performetrica.com**
 
 
 ### Linux ve macOS
 
 
-ssh username@login.tekmer.performetrica.com
+**ssh username@login.tekmer.performetrica.com**
 
 
 ---

@@ -14,7 +14,7 @@ Bu doküman, Tekmer HPC kümesinde Slurm kullanarak iş (job) gönderme, izleme 
 
 Örneğin scriptler şu dizinde bulunmaktadır:
 
-/perf/shared/
+**/perf/shared/**
 
 Kopyalayın ve düzenleyin:
 

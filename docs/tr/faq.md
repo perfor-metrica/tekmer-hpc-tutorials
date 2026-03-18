@@ -66,7 +66,7 @@ Gerekli görülmesi halinde ek doğrulama talep edilebilir.
 ---
 
 ## TEKMER HPC kullanım kuralları nelerdir?
-Detaylı bilgi için [**TEKMER HPC Kullanım Politikası**](HPC_Kullanım_Politikasi.md) dokümanına bakınız.
+Detaylı bilgi için [**TEKMER HPC Kullanım Politikası**](../HPC_Kullanım_Politikasi.md) dokümanına bakınız.
 
 Bu dokümanda şu konular yer almaktadır:
 

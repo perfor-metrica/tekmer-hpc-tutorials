@@ -14,7 +14,7 @@ This guide explains how to submit, monitor, and troubleshoot jobs on the Tekmer 
 
 Example scripts may be located under:
 
-/perf/shared/
+**/perf/shared/**
 
 Copy and modify:
 

@@ -81,7 +81,9 @@ matlab -nodisplay -r "my_script; exit"
 
 Gönderim:
 
+```bash
 sbatch job.sh
+```
 ###Paralel Hesaplama
 
 MATLAB paralel çalışmayı destekler:
