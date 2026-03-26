@@ -16,7 +16,7 @@ Bu doküman, Tekmer HPC kümesinde Slurm kullanarak iş (job) gönderme, izleme 
 
 **/perf/shared/**
 
-Kopyalayın ve düzenleyin:
+Kopyalayın ve düzenleyin. 
 
 ```bash
 mkdir -p $HOME/workfolder
@@ -35,7 +35,8 @@ sbatch my_experiment.sh
 
 ---
 
-## Minimal Örnek
+## Minimal Örnek 
+(En son geçerli örnekleri **/perf/shared/** klasöründe bulabilirsiniz.)
 
 ```bash
 #!/bin/bash
