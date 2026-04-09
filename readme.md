@@ -20,8 +20,6 @@ These tutorials cover:
 - Storage usage (home, project, and scratch areas)
 - Best practices for efficient HPC usage
 
-The platform is continuously evolving, with upcoming GPU resources
-and expanded cluster capacity.
 
 ---
 
@@ -45,5 +43,4 @@ Bu eğitimler aşağıdaki konuları kapsar:
 - Depolama kullanımı (home, proje ve scratch alanları)
 - Verimli HPC kullanımı için en iyi uygulamalar
 
-Platform sürekli gelişmektedir; yakın zamanda GPU kaynakları
-ve genişletilmiş küme kapasitesi de sisteme eklenecektir.
+
