@@ -30,6 +30,8 @@ These tutorials cover:
 Bu dokümanlar, Performetrica tarafından işletilen Tekmer HPC platformu
 kullanıcıları için hazırlanmış eğitim içerikleridir.
 
+https://tekmer.performetrica.com/tr/
+
 Tekmer HPC, akademik ve endüstriyel iş yükleri için tasarlanmış,
 üretim seviyesinde bir yüksek başarımlı hesaplama (HPC) ortamı sunar.
 Sistem; CPU tabanlı hesaplama düğümleri, yüksek hızlı ağ altyapısı,
