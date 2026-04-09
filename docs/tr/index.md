@@ -159,7 +159,7 @@ sbatch job.sh
 
 ```bash
 squeue
-scancel JOBID
+scancel <JOBID>
 sinfo
 ```
 
