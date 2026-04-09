@@ -5,6 +5,8 @@
 These documents are prepared as a set of tutorials
 for users of the Tekmer HPC platform operated by Performetrica.
 
+https://tekmer.performetrica.com/tr/
+
 Tekmer HPC provides a production-grade high-performance computing
 environment designed for academic and industrial workloads.
 The system includes CPU-based compute nodes, high-speed interconnect,
