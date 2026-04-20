@@ -78,16 +78,29 @@ gmx_mpi mdrun -ntmpi 16 -ntomp 1 -s topol.tpr
 ```bash
 #!/bin/bash
 #SBATCH -J gromacs_job
+#SBATCH -p defq
 #SBATCH -N 1
-#SBATCH --ntasks=4
+#SBATCH --ntasks=1
 #SBATCH --cpus-per-task=4
+#SBATCH --mem=8G
 #SBATCH --time=04:00:00
+#SBATCH --output=%x_%j.out
+#SBATCH --error=%x_%j.err
+#SBATCH --mail-type=END,FAIL
+#SBATCH --mail-user=your_email@example.com
 
 ml GROMACS/2025.4-gompi
 
-export OMP_NUM_THREADS=4
+export OMP_NUM_THREADS=${SLURM_CPUS_PER_TASK}
 
-srun gmx_mpi mdrun -ntmpi 4 -ntomp 4 -s topol.tpr -deffnm md
+echo "Job started on $(hostname)"
+echo "Node list: $SLURM_JOB_NODELIST"
+echo "Start time: $(date)"
+
+srun gmx_mpi mdrun -ntomp ${OMP_NUM_THREADS} -s topol.tpr -deffnm md
+
+echo "End time: $(date)"
+
 ```
 
 ---
@@ -105,7 +118,7 @@ srun gmx_mpi mdrun -ntmpi 4 -ntomp 4 -s topol.tpr -deffnm md
 ## Logs
 
 ```bash
-grep Performance md.log
+grep Performance *.log
 ```
 
 ---

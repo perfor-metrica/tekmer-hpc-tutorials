@@ -21,7 +21,10 @@ nav:
               - Tensorflow:
                   - General Information: en/tensorflow/tensorflow.md
               - GROMACS:
-                  - General Information: en/gromacs/gromacs.md
+                  - GROMACS/2025.4 General Information: en/gromacs/gromacs.md
+                  - GROMACS/2026.1 General Information: en/gromacs/gromacs_2026.1.md
+              - AMBER:
+                  - General Information: en/amber/amber.md
       - FAQ: en/faq.md
       - Performance Optimization Tips: en/performance.md
       - Usage Policy: en/HPC_Kullanim_Politikasi.md
@@ -48,7 +51,10 @@ nav:
               - Tensorflow:
                   - Genel Bilgi: tr/tensorflow/tensorflow.md
               - GROMACS:
-                  - Genel Bilgi: tr/gromacs/gromacs.md
+                  - GROMACS/2025.4 Genel Bilgi: tr/gromacs/gromacs.md
+                  - GROMACS/2026.1 Genel Bilgi: tr/gromacs/gromacs_2026.1.md
+              - AMBER:
+                  - Genel Bilgi: tr/amber/amber.md
       - SSS: tr/faq.md
       - Performans İyileştirme İpuçları: tr/performance.md
       - TEKMER HPC Kullanım Politikası: tr/HPC_Kullanim_Politikasi.md
