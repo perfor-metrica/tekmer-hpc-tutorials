@@ -1,6 +1,6 @@
-# TEKMER SÜPER BİLGİSAYAR MERKEZİ
+# PERFORMETRICA SÜPER BİLGİSAYAR MERKEZİ
 
-TEKMER HPC dökümantasyon portalına hoş geldiniz!
+Performetrica HPC dökümantasyon portalına hoş geldiniz!
 
 ## Dil Seçenekleri
 

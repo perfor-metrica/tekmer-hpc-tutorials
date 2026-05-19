@@ -9,7 +9,7 @@ It is optimized for:
 - OpenMP threading
 - SIMD vectorization (AVX)
 
-On TEKMER HPC:
+On Performetrica HPC:
 
 - MPI: OpenMPI 5.0.3
 - OpenMP: Enabled (max 128 threads)

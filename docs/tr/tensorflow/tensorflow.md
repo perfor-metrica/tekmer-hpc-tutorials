@@ -1,6 +1,6 @@
-# Tekmer HPC Üzerinde TensorFlow
+# Performetrica HPC Üzerinde TensorFlow
 
-[![Documentation Status](https://readthedocs.org/projects/su-hpc-tutorials/badge/?version=latest)](https://su-hpc-tutorials.readthedocs.io/en/latest/?badge=latest)
+[![Documentation Status](https://readthedocs.org/projects/performetrica-hpc-tutorials/badge/?version=latest)](https://performetrica-hpc-tutorials.readthedocs.io/en/latest/?badge=latest)
 
 ---
 
@@ -16,9 +16,9 @@ Kullanım alanları:
 
 ---
 
-## Tekmer HPC Üzerinde Kullanım
+## Performetrica HPC Üzerinde Kullanım
 
-TensorFlow, Tekmer HPC kümesinde module sistemi üzerinden kullanılabilir.
+TensorFlow, Performetrica HPC kümesinde module sistemi üzerinden kullanılabilir.
 
 Mevcut sürümleri görmek için:
 

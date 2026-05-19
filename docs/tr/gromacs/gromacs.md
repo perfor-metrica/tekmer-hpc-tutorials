@@ -11,7 +11,7 @@ Aşağıdaki işlemler için optimize edilmiştir:
 
 - SIMD (AVX)
 
-TEKMER HPC üzerinde:
+Performetrica HPC üzerinde:
 
 - MPI: OpenMPI 5.0.3
 

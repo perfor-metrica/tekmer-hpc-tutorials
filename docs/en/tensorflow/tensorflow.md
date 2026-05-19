@@ -1,6 +1,6 @@
-# TensorFlow on Tekmer HPC
+# TensorFlow on Performetrica HPC
 
-[![Documentation Status](https://readthedocs.org/projects/su-hpc-tutorials/badge/?version=latest)](https://su-hpc-tutorials.readthedocs.io/en/latest/?badge=latest)
+[![Documentation Status](https://readthedocs.org/projects/performetrica-hpc-tutorials/badge/?version=latest)](https://performetrica-hpc-tutorials.readthedocs.io/en/latest/?badge=latest)
 
 ---
 
@@ -14,9 +14,9 @@ TensorFlow is an open-source machine learning framework developed by Google. It 
 
 ---
 
-## Availability on Tekmer HPC
+## Availability on Performetrica HPC
 
-TensorFlow is available on the Tekmer HPC cluster through environment modules.
+TensorFlow is available on the Performetrica HPC cluster through environment modules.
 
 Load available versions:
 

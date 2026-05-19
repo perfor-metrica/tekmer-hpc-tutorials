@@ -1,12 +1,12 @@
-# Slurm İş Gönderim Rehberi (Tekmer HPC)
+# Slurm İş Gönderim Rehberi (Performetrica HPC)
 
-[![Documentation Status](https://readthedocs.org/projects/su-hpc-tutorials/badge/?version=latest)](https://su-hpc-tutorials.readthedocs.io/en/latest/?badge=latest)
+[![Documentation Status](https://readthedocs.org/projects/performetrica-hpc-tutorials/badge/?version=latest)](https://performetrica-hpc-tutorials.readthedocs.io/en/latest/?badge=latest)
 
 ---
 
 ## Genel Bakış
 
-Bu doküman, Tekmer HPC kümesinde Slurm kullanarak iş (job) gönderme, izleme ve hata ayıklama süreçlerini açıklar.
+Bu doküman, Performetrica HPC kümesinde Slurm kullanarak iş (job) gönderme, izleme ve hata ayıklama süreçlerini açıklar.
 
 ---
 
@@ -67,7 +67,7 @@ sacct -j <jobid>
 
 ---
 
-## Tekmer HPC Notları
+## Performetrica HPC Notları
 
 - Varsayılan partition: defq
 - Gereksiz kaynak talep etmeyin

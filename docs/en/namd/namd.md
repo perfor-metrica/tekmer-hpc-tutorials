@@ -1,4 +1,4 @@
-[![Documentation Status](https://readthedocs.org/projects/su-hpc-tutorials/badge/?version=latest)](https://su-hpc-tutorials.readthedocs.io/en/latest/?badge=latest)
+[![Documentation Status](https://readthedocs.org/projects/performetrica-hpc-tutorials/badge/?version=latest)](https://performetrica-hpc-tutorials.readthedocs.io/en/latest/?badge=latest)
 
 # NAMD
 
@@ -24,13 +24,13 @@ NAMD is optimized for:
 
 - CPU and GPU acceleration  
 
-On TEKMER HPC, NAMD is available on compute nodes and can be used for both small-scale and large-scale simulations.
+On Performetrica HPC, NAMD is available on compute nodes and can be used for both small-scale and large-scale simulations.
 
 ---
 
 ## Availability
 
-NAMD is installed on the TEKMER HPC cluster and is available to all authorized users.
+NAMD is installed on the Performetrica HPC cluster and is available to all authorized users.
 
 It can also be used on:
 
@@ -52,7 +52,7 @@ NAMD is free for academic and research use.
 
 ---
 
-## Running NAMD on TEKMER HPC
+## Running NAMD on Performetrica HPC
 
 NAMD should be executed via the job scheduler (Slurm).
 

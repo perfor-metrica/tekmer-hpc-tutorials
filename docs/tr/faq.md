@@ -1,17 +1,21 @@
-[![Dokümantasyon Durumu](https://readthedocs.org/projects/su-hpc-tutorials/badge/?version=latest)](https://su-hpc-tutorials.readthedocs.io/en/latest/?badge=latest)
+[![Dokümantasyon Durumu](https://readthedocs.org/projects/performetrica-hpc-tutorials/badge/?version=latest)](https://performetrica-hpc-tutorials.readthedocs.io/en/latest/?badge=latest)
 
 # Sıkça Sorulan Sorular (SSS)
 
-## TEKMER HPC hesabı nasıl açılır?
-1. Siz veya kurumunuz daha önce kayıtlı değilse, öncelikle TEKMER ile iletişime geçerek kayıt olmalısınız:  
-   [TEKMER İletişim](https://tuzlatekmer.com/iletisim)
+## Performetrica HPC hesabı nasıl açılır?
+1. Siz veya kurumunuz daha önce kayıtlı değilse, öncelikle kayıt olmalısınız:  
+   [SüperBilgisayar Başvuru](https://www.superbilgisayar.tr/basvuru.php)
 
 2. Kullanıcı portalına gidiniz:  
-   [Tekmer HPC Portal](https://tekmer.performetrica.com/)
+   [SüperBilgisayar HPC Portal](https://portal.superbilgisayar.tr/)
 
-3. **"Online Kayıt"** seçeneğine tıklayarak formu doldurunuz.
+3. **"Şifremi Unuttum"** seçeneğine tıklayarak formu doldurunuz.
 
 4. E-posta ile gönderilen adımları takip ederek hesabınızı aktive ediniz.
+
+** Siz veya kurumunuz daha önce kayıt edilmişse, kullanıcı portalına gidiniz:
+[SüperBilgisayar HPC Portal](https://portal.superbilgisayar.tr/)
+**"Online Kayıt"** seçeneğine tıklayarak formu doldurunuz. E-posta ile gönderilen adımları takip ederek hesabınızı aktive ediniz.
 
 Sorularınız için: <contact@performetrica.com>
 
@@ -20,14 +24,14 @@ Sorularınız için: <contact@performetrica.com>
 ## Sistemi kullanmaya ne kadar sürede başlayabilirim?
 Eğer e-posta adresiniz veya kurumunuz önceden onaylıysa, kayıt sonrası hemen kullanmaya başlayabilirsiniz.
 
-Aksi durumda başvurunuz TEKMER tarafından değerlendirilecektir.
+Aksi durumda öncelikle başvurunuzun Performetrica tarafından değerlendirilme süresi kadar bekleme olacaktır.
 
 ---
 
 ## Bireysel kullanıcıyım. Sistemi kullanabilir miyim?
 Evet. Çalışmanız araştırma ve geliştirme kapsamındaysa bireysel başvurular kabul edilebilir.
 
-Tüm başvurular TEKMER onayına tabidir.
+Tüm başvurular Performetrica onayına tabidir.
 
 ---
 
@@ -44,7 +48,7 @@ Lütfen kullanıcı adınızı belirtiniz.
 
 ## İhtiyacım olan yazılım sistemde yok. Ne yapmalıyım?
 Kullanıcı portalı üzerinden yazılım talebinde bulunabilirsiniz:  
-[Tekmer HPC Portal](https://tekmer.performetrica.com/)
+[SüperBilgisayar HPC Portal](https://portal.superbilgisayar.tr/)
 
 **"Yazılım Talebi"** bölümünü kullanınız.
 
@@ -65,8 +69,8 @@ Gerekli görülmesi halinde ek doğrulama talep edilebilir.
 
 ---
 
-## TEKMER HPC kullanım kuralları nelerdir?
-Detaylı bilgi için [**TEKMER HPC Kullanım Politikası**](../HPC_Kullanım_Politikasi.md) dokümanına bakınız.
+## Performetrica HPC kullanım kuralları nelerdir?
+Detaylı bilgi için [**Performetrica HPC Kullanım Politikası**](../HPC_Kullanım_Politikasi.md) dokümanına bakınız.
 
 Bu dokümanda şu konular yer almaktadır:
 

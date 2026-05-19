@@ -1,12 +1,12 @@
-# Slurm Job Submission Guide (Tekmer HPC)
+# Slurm Job Submission Guide (Performetrica HPC)
 
-[![Documentation Status](https://readthedocs.org/projects/su-hpc-tutorials/badge/?version=latest)](https://su-hpc-tutorials.readthedocs.io/en/latest/?badge=latest)
+[![Documentation Status](https://readthedocs.org/projects/performetrica-hpc-tutorials/badge/?version=latest)](https://performetrica-hpc-tutorials.readthedocs.io/en/latest/?badge=latest)
 
 ---
 
 ## Overview
 
-This guide explains how to submit, monitor, and troubleshoot jobs on the Tekmer HPC cluster using Slurm.
+This guide explains how to submit, monitor, and troubleshoot jobs on the Performetrica HPC cluster using Slurm.
 
 ---
 
@@ -66,7 +66,7 @@ sacct -j <jobid>
 ```
 ---
 
-## Important Notes for Tekmer HPC
+## Important Notes for Performetrica HPC
 
 - Default partition: defq
 - QoS is NOT used in this cluster

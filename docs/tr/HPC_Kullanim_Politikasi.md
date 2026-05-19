@@ -1,16 +1,16 @@
-[![Dokümantasyon Durumu](https://readthedocs.org/projects/su-hpc-tutorials/badge/?version=latest)](https://su-hpc-tutorials.readthedocs.io/en/latest/?badge=latest)
+[![Dokümantasyon Durumu](https://readthedocs.org/projects/performetrica-hpc-tutorials/badge/?version=latest)](https://performetrica-hpc-tutorials.readthedocs.io/en/latest/?badge=latest)
 
-# TEKMER HPC Kümesi Kullanım Politikası
+# Performetrica HPC Kümesi Kullanım Politikası
 
-TEKMER HPC altyapısını kullanan tüm kullanıcılar aşağıdaki kurallara uymayı kabul etmiş sayılır.
+Performetrica HPC altyapısını kullanan tüm kullanıcılar aşağıdaki kurallara uymayı kabul etmiş sayılır.
 
 ---
 
 ## 1. Uygunluk ve Kullanıcı Profili
 
-- TEKMER bünyesindeki start-up şirketler ve araştırmacılar HPC sistemlerini kullanabilir.
+- Start-up şirketler ve araştırmacılar HPC sistemlerini kullanabilir.
 - Diğer kullanıcılar, bir Türk üniversitesi ile ilişkili akademik projelerde yer almaları durumunda sisteme erişim talep edebilir.
-- Başvurular TEKMER tarafından değerlendirilir ve onaylanır.
+- Başvurular Performetrica tarafından değerlendirilir ve onaylanır.
 
 ---
 
@@ -34,7 +34,7 @@ işlemlerini gerçekleştirebilir.
 
 - Sisteme SSH üzerinden erişim sağlanır.
 - Gerekli durumlarda VPN kullanımı zorunlu tutulabilir.
-- Erişim yöntemleri TEKMER IT politikalarına tabidir.
+- Erişim yöntemleri Performetrica IT politikalarına tabidir.
 
 ---
 
@@ -87,8 +87,7 @@ yükümlüdür.
 - Şüpheli durumlarda derhal bildirim yapılmalıdır:
 
 - 📧 [contact@performetrica.com](mailto:contact@performetrica.com)
-- 📞 [+90 216 275 78 70](tel:+902162757870)
-- WhatsApp: [+90 533 066 49 66](https://wa.me/905330664966)
+- 📞 [+90 (850) 304 27 66](tel:+908503042766)
 
 ---
 
@@ -100,10 +99,10 @@ yükümlüdür.
 
 ## 10. Yayın ve Atıf Zorunluluğu
 
-TEKMER HPC kaynakları kullanılarak üretilen tüm çalışmalarda:
+Performetrica HPC kaynakları kullanılarak üretilen tüm çalışmalarda:
 
 
-- TUZLA BELEDİYESİ TEKMER A.Ş.’ye teşekkür edilmesi  
+- Performetrica SuperComputing Center'a teşekkür edilmesi  
 - Yayın bilgilerinin HPC portalına girilmesi  
 
 zorunludur.
@@ -150,5 +149,5 @@ Aşağıdaki faaliyetler kesinlikle yasaktır:
 
 ## 15. Feragatname
 
-Tüm kullanıcılar, [**TEKMER HPC Feragatnamesi**](Feragatname.md) hükümlerini kabul etmiş sayılır.
+Tüm kullanıcılar, [**Performetrica HPC Feragatnamesi**](Feragatname.md) hükümlerini kabul etmiş sayılır.
 

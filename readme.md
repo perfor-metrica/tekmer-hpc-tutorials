@@ -1,13 +1,13 @@
-# Tekmer HPC Tutorials
+# Performetrica HPC Tutorials
 
 ## English
 
 These documents are prepared as a set of tutorials
-for users of the Tekmer HPC platform operated by Performetrica.
+for users of the Performetrica HPC platform operated by Performetrica.
 
-https://tekmer.performetrica.com/tr/
+https://www.superbilgisayar.tr
 
-Tekmer HPC provides a production-grade high-performance computing
+Performetrica HPC provides a production-grade high-performance computing
 environment designed for academic and industrial workloads.
 The system includes CPU-based compute nodes, high-speed interconnect,
 parallel storage, and a curated scientific software stack.
@@ -27,12 +27,11 @@ These tutorials cover:
 
 ## Türkçe
 
-Bu dokümanlar, Performetrica tarafından işletilen Tekmer HPC platformu
-kullanıcıları için hazırlanmış eğitim içerikleridir.
+Bu dokümanlar, Performetrica HPC platformu kullanıcıları için hazırlanmış eğitim içerikleridir.
 
-https://tekmer.performetrica.com/tr/
+https://www.superbilgisayar.tr
 
-Tekmer HPC, akademik ve endüstriyel iş yükleri için tasarlanmış,
+Performetrica HPC, akademik ve endüstriyel iş yükleri için tasarlanmış,
 üretim seviyesinde bir yüksek başarımlı hesaplama (HPC) ortamı sunar.
 Sistem; CPU tabanlı hesaplama düğümleri, yüksek hızlı ağ altyapısı,
 paralel depolama sistemi ve hazır bilimsel yazılım paketlerini içerir.

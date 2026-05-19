@@ -1,28 +1,28 @@
-# Tekmer HPC – Getting Started & System Overview
+# Performetrica HPC – Getting Started & System Overview
 
-[![Documentation Status](https://readthedocs.org/projects/su-hpc-tutorials/badge/?version=latest)](https://su-hpc-tutorials.readthedocs.io/en/latest/?badge=latest)
+[![Documentation Status](https://readthedocs.org/projects/performetrica-hpc-tutorials/badge/?version=latest)](https://performetrica-hpc-tutorials.readthedocs.io/en/latest/?badge=latest)
 
 ---
 
-## Accessing Tekmer HPC
+## Accessing Performetrica HPC
 
-### From inside Tekmer / local network
+### From inside Performetrica / local network
 ```bash
-ssh <username>@login.tekmer.performetrica.com
+ssh <username>@login.superbilgisayar.tr
 ```
 
 ### From outside (internet)
 ```bash
-ssh <username>@login.tekmer.performetrica.com
+ssh <username>@login.superbilgisayar.tr
 ```
 
-> If VPN or firewall restrictions apply, follow Tekmer access policy.
+> If VPN or firewall restrictions apply, follow Performetrica access policy.
 
 ---
 
 ## Cluster Overview
 
-Tekmer HPC is a CPU-based high performance computing cluster designed for:
+Performetrica HPC is a CPU-based high performance computing cluster designed for:
 
 - Scientific computing
 - Parallel workloads (MPI / OpenMP)

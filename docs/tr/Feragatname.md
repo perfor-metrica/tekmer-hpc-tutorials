@@ -1,8 +1,8 @@
-[![Dokümantasyon Durumu](https://readthedocs.org/projects/su-hpc-tutorials/badge/?version=latest)](https://su-hpc-tutorials.readthedocs.io/en/latest/?badge=latest)
+[![Dokümantasyon Durumu](https://readthedocs.org/projects/performetrica-hpc-tutorials/badge/?version=latest)](https://performetrica-hpc-tutorials.readthedocs.io/en/latest/?badge=latest)
 
 # FERAGATNAME
 
-TEKMER HPC altyapısını kullanan tüm kullanıcılar aşağıdaki koşulları kabul etmiş sayılır:
+Performetrica HPC altyapısını kullanan tüm kullanıcılar aşağıdaki koşulları kabul etmiş sayılır:
 
 ## 1. Hizmet Sürekliliği
 Arıza, bakım, altyapı sorunları veya öngörülemeyen herhangi bir nedenle HPC kaynaklarının geçici veya kalıcı olarak devre dışı kalması durumunda oluşabilecek:
@@ -13,7 +13,7 @@ Arıza, bakım, altyapı sorunları veya öngörülemeyen herhangi bir nedenle H
 
 - Proje gecikmeleri  
 
-ile ilgili TEKMER HPC yönetimi herhangi bir sorumluluk kabul etmez.
+ile ilgili Performetrica HPC yönetimi herhangi bir sorumluluk kabul etmez.
 
 ## 2. Planlı Bakımlar
 Önceden duyurulan bakım çalışmaları sırasında:

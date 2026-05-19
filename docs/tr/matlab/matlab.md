@@ -1,4 +1,4 @@
-[![Documentation Status](https://readthedocs.org/projects/su-hpc-tutorials/badge/?version=latest)](https://su-hpc-tutorials.readthedocs.io/en/latest/?badge=latest)
+[![Documentation Status](https://readthedocs.org/projects/performetrica-hpc-tutorials/badge/?version=latest)](https://pereformetrica-hpc-tutorials.readthedocs.io/en/latest/?badge=latest)
 # MATLAB (Türkçe)
 
 ## Genel Bilgi
@@ -10,7 +10,7 @@ MATLAB, aşağıdaki alanlarda kullanılan yüksek seviyeli bir programlama ve s
 - Algoritma geliştirme  
 - Mühendislik ve bilimsel hesaplamalar  
 
-TEKMER HPC üzerinde MATLAB şu modlarda kullanılabilir:
+Performetrica HPC üzerinde MATLAB şu modlarda kullanılabilir:
 
 - **Etkileşimli mod** (test ve geliştirme)  
 
@@ -24,7 +24,7 @@ TEKMER HPC üzerinde MATLAB şu modlarda kullanılabilir:
 
 Detaylı kurulum ve kullanım dokümanına Kurulum Eğitimi tabından veya buradan ulaşabilirsiniz:
 
-👉 https://tekmer-hpc-tutorials.readthedocs.io/en/latest/matlab/pdf/matlab-tutorial.pdf
+👉 https://performetrica-hpc-tutorials.readthedocs.io/en/latest/matlab/pdf/matlab-tutorial.pdf
 
 İçerik:
 
@@ -51,7 +51,7 @@ Destek için:
 
 ---
 
-## TEKMER HPC Üzerinde MATLAB Kullanımı
+## Performetrica HPC Üzerinde MATLAB Kullanımı
 
 ### MATLAB Yükleme
 
@@ -141,11 +141,11 @@ Paralel kullanım lisans ile sınırlı olabilir
 
 Aşırı kaynak kullanımı durumunda job durdurulabilir
 
-TEKMER HPC kullanım politikalarına uyulmalıdır
+Performetrica HPC kullanım politikalarına uyulmalıdır
 
 ###Kurulu Sistemler
 
-MATLAB, TEKMER HPC kümesinde kuruludur.
+MATLAB, Performetrica HPC kümesinde kuruludur.
 
 Kurum geneli erişim talepleri için:
 📧 [contact@performetrica.com](mailto:contact@performetrica.com)  

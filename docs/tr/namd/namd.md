@@ -1,4 +1,4 @@
-[![Documentation Status](https://readthedocs.org/projects/su-hpc-tutorials/badge/?version=latest)](https://su-hpc-tutorials.readthedocs.io/en/latest/?badge=latest)
+[![Documentation Status](https://readthedocs.org/projects/performetrica-hpc-tutorials/badge/?version=latest)](https://performetrica-hpc-tutorials.readthedocs.io/en/latest/?badge=latest)
 
 # NAMD (Türkçe)
 
@@ -24,13 +24,13 @@ NAMD şu özellikler için optimize edilmiştir:
 
 - CPU ve GPU hızlandırma  
 
-TEKMER HPC üzerinde NAMD compute node’lar üzerinde çalıştırılır ve hem küçük hem de büyük ölçekli simülasyonlar için uygundur.
+Performetrica HPC üzerinde NAMD compute node’lar üzerinde çalıştırılır ve hem küçük hem de büyük ölçekli simülasyonlar için uygundur.
 
 ---
 
 ## Erişim
 
-NAMD, TEKMER HPC kümesinde kurulu olup yetkili tüm kullanıcıların erişimine açıktır.
+NAMD, Performetrica HPC kümesinde kurulu olup yetkili tüm kullanıcıların erişimine açıktır.
 
 Ayrıca:
 
@@ -54,7 +54,7 @@ NAMD akademik ve araştırma amaçlı kullanım için ücretsizdir.
 
 ---
 
-## TEKMER HPC Üzerinde NAMD Kullanımı
+## Performetrica HPC Üzerinde NAMD Kullanımı
 
 NAMD işlemleri Slurm job scheduler üzerinden çalıştırılmalıdır.
 

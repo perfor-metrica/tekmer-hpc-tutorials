@@ -1,11 +1,11 @@
-site_name: TEKMER SuperComputing Center
+site_name: Performetrica SuperComputing Center
 nav:
   - Home: index.md
   - English:
       - Quickstart: en/index.md
       - Scheduling with Slurm: en/slurm.md
       - Tutorials:
-          - Using TEKMER Cluster: en/tekmer-index.md
+          - Using Performetrica Cluster: en/performetrica-index.md
           - Available Tools:
               - Matlab:
                   - General Information: en/matlab/matlab.md
@@ -35,7 +35,7 @@ nav:
       - Hızlı Başlangıç: tr/index.md
       - Slurm ile Zamanlama: tr/slurm.md
       - Eğitimler:
-          - TEKMER Kümesi Kullanımı: tr/tekmer-index.md
+          - Performetrica Kümesi Kullanımı: tr/performetrica-index.md
           - Mevcut Yazılımlar:
               - Matlab:
                   - Genel Bilgi: tr/matlab/matlab.md

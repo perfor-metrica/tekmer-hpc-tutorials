@@ -11,7 +11,7 @@ It is optimized for:
 
 - SIMD vectorization (AVX)
 
-On TEKMER HPC:
+On Performetrica HPC:
 
 - MPI: OpenMPI 5.0.3
 

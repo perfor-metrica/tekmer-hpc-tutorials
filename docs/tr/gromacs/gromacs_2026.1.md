@@ -9,7 +9,7 @@ Aşağıdaki teknolojiler için optimize edilmiştir:
 - OpenMP thread kullanımı
 - SIMD vektörizasyonu (AVX)
 
-TEKMER HPC üzerinde:
+Performetrica HPC üzerinde:
 
 - MPI: OpenMPI 5.0.3
 - OpenMP: Etkin (maksimum 128 thread)

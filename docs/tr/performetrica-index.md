@@ -1,26 +1,26 @@
-# Tekmer HPC – Erişim ve Sistem Genel Bilgileri
+# Performetrica HPC – Erişim ve Sistem Genel Bilgileri
 
-[![Documentation Status](https://readthedocs.org/projects/su-hpc-tutorials/badge/?version=latest)](https://su-hpc-tutorials.readthedocs.io/en/latest/?badge=latest)
+[![Documentation Status](https://readthedocs.org/projects/performetrica-hpc-tutorials/badge/?version=latest)](https://performetrica-hpc-tutorials.readthedocs.io/en/latest/?badge=latest)
 
 ---
 
-## Tekmer HPC'ye Erişim
+## Performetrica HPC'ye Erişim
 
 ### Yerel ağdan erişim
 ```bash
-ssh <kullanıcı_adı>@login.tekmer.performetrica.com
+ssh <kullanıcı_adı>@login.superbilgisayar.tr
 ```
 
 ### Dış ağdan erişim
 ```bash
-ssh <kullanıcı_adı>@login.tekmer.performetrica.com
+ssh <kullanıcı_adı>@login.superbilgisayar.tr
 ```
 
 ---
 
 ## Sistem Genel Bakış
 
-Tekmer HPC, CPU tabanlı bir yüksek başarımlı hesaplama kümesidir.
+Performetrica  HPC, CPU tabanlı bir yüksek başarımlı hesaplama kümesidir.
 
 Kullanım alanları:
 

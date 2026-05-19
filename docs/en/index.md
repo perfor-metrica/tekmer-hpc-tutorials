@@ -1,10 +1,10 @@
-[![Documentation Status](https://readthedocs.org/projects/su-hpc-tutorials/badge/?version=latest)](https://su-hpc-tutorials.readthedocs.io/en/latest/?badge=latest)
+[![Documentation Status](https://readthedocs.org/projects/performetrica-hpc-tutorials/badge/?version=latest)](https://performetrica-hpc-tutorials.readthedocs.io/en/latest/?badge=latest)
 
-# TEKMER HPC CLUSTER QUICKSTART GUIDE
+# PERFORMETRICA HPC CLUSTER QUICKSTART GUIDE
 
 ## Scope of This Guide
 
-This guide explains how to access and run jobs on the TEKMER HPC Cluster.
+This guide explains how to access and run jobs on the Performetrica HPC Cluster.
 
 It does NOT cover:
 
@@ -22,9 +22,9 @@ Users are expected to have:
 
 ## Getting an HPC Account
 
-Access to TEKMER HPC is managed via the user portal:
+Access to Performetrica HPC is managed via the user portal:
 
-👉 [https://tekmer.performetrica.com/](https://tekmer.performetrica.com/)
+👉 [https://portal.superbilgisayar.tr/](https://portal.superbilgisayar.tr/)
 
 ### Steps
 
@@ -63,7 +63,7 @@ Failure to follow these rules may result in account suspension.
 
 ## HPC System Architecture
 
-The TEKMER HPC cluster consists of:
+The Performetrica HPC cluster consists of:
 
 - **Login Nodes** → login, job submission, light tasks  
 - **Compute Nodes** → actual computation  
@@ -84,14 +84,14 @@ Use an SSH client such as:
 - PuTTY  
 
 After installing the client, connect using:
-**username@login.tekmer.performetrica.com**
+**username@login.superbilgisayar.tr**
 
 
 ### Linux and macOS
 
 Use SSH from terminal:
 
-**ssh username@login.tekmer.performetrica.com**
+**ssh username@login.superbilgisayar.tr**
 
 
 ---
@@ -123,13 +123,13 @@ cp file1 dir/ # copy
 ### Upload (local → cluster)
 
 ```bash
-scp file username@login.tekmer.performetrica.com:/path/
+scp file username@login.superbilgisayar.tr:/path/
 ```
 
 ### Download (cluster → local)
 
 ```bash
-scp username@login.tekmer.performetrica.com:/path/file
+scp username@login.superbilgisayar.tr:/path/file
 ```
 
 ---
@@ -211,5 +211,5 @@ Old or unused data may be deleted by administrators.
 For help and support:
 
 📧 [contact@performetrica.com](mailto:contact@performetrica.com)  
-🌐 [Tekmer HPC Portal](https://tekmer.performetrica.com/)
+🌐 [Performetrica HPC Portal](https://portal.superbilgisayar.tr/)
 

@@ -1,4 +1,4 @@
-[![Dokümantasyon Durumu](https://readthedocs.org/projects/su-hpc-tutorials/badge/?version=latest)](https://su-hpc-tutorials.readthedocs.io/en/latest/?badge=latest)
+[![Dokümantasyon Durumu](https://readthedocs.org/projects/performetrica-hpc-tutorials/badge/?version=latest)](https://performetrica-hpc-tutorials.readthedocs.io/en/latest/?badge=latest)
 
 # Genel Bilgi
 
@@ -22,9 +22,9 @@ kullanılabilir.
 
 ## Kurulu Sistemler
 
-Bu yazılım TEKMER HPC kümesi üzerinde kuruludur. Ayrıca iş istasyonlarına ve dizüstü bilgisayarlara da kurulabilir.
+Bu yazılım Performetrica HPC kümesi üzerinde kuruludur. Ayrıca iş istasyonlarına ve dizüstü bilgisayarlara da kurulabilir.
 
-Yazılım, TEKMER HPC kümesi üzerinden ve lisanslı iş istasyonları/dizüstü bilgisayarlar üzerinden erişilebilir.
+Yazılım, Performetrica HPC kümesi üzerinden ve lisanslı iş istasyonları/dizüstü bilgisayarlar üzerinden erişilebilir.
 
 ## Sağlayıcı
 

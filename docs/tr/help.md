@@ -1,6 +1,6 @@
 # İletişim ve Destek
 
-TEKMER HPC hizmetleri ile ilgili aşağıdaki konularda destek almak için:
+Performetrica HPC hizmetleri ile ilgili aşağıdaki konularda destek almak için:
 
 - Sistem kullanımı
 - Teknik destek
@@ -40,7 +40,7 @@ Destek talebi oluşturmadan önce:
 
 - [**SSS (FAQ)**](faq.md) bölümünü inceleyiniz
 
-- İlgili [**dokümantasyon ve eğitimleri**](tekmer-index.md) kontrol ediniz
+- İlgili [**dokümantasyon ve eğitimleri**](performetrica-index.md) kontrol ediniz
 
 - Job çıktılarınızı ve hata loglarını gözden geçiriniz
 
@@ -112,6 +112,6 @@ Daha hızlı destek almak için:
 
 ## Ek Destek Kanalları
 
-- Ticket sistemi: [tekmer.performetrica.com](https://tekmer.performetrica.com/)
+- Ticket sistemi: [portal.superbilgisayar.tr](https://portal.superbilgisayar.tr/)
 - Telefon 
 

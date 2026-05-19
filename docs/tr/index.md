@@ -1,9 +1,9 @@
-[![Documentation Status](https://readthedocs.org/projects/su-hpc-tutorials/badge/?version=latest)](https://su-hpc-tutorials.readthedocs.io/en/latest/?badge=latest)
-# TEKMER HPC HIZLI BAŞLANGIÇ KILAVUZU
+[![Documentation Status](https://readthedocs.org/projects/performetrica-hpc-tutorials/badge/?version=latest)](https://performetrica-hpc-tutorials.readthedocs.io/en/latest/?badge=latest)
+# PERFORMETRICA HPC HIZLI BAŞLANGIÇ KILAVUZU
 
 ## Kapsam
 
-Bu doküman, TEKMER HPC Kümesine erişim ve iş çalıştırma süreçlerini açıklar.
+Bu doküman, Performetrica HPC Kümesine erişim ve iş çalıştırma süreçlerini açıklar.
 
 Şunları kapsamaz:
 
@@ -19,10 +19,10 @@ Kullanıcıların:
 
 ## HPC Hesabı Alma
 
-TEKMER HPC erişimi kullanıcı portalı üzerinden sağlanır:
+Performetrica HPC erişimi kullanıcı portalı üzerinden sağlanır:
 
-👉 <a href="https://tekmer.performetrica.com/" target="_blank" rel="noopener noreferrer">
- TEKMER HPC Portal
+👉 <a href="https://portal.superbilgisayar.tr/" target="_blank" rel="noopener noreferrer">
+ Performetrica HPC Portal
 </a>
 
 ### Adımlar
@@ -56,7 +56,7 @@ Kurallara uyulmaması durumunda hesap askıya alınabilir.
 
 ## Sistem Mimarisi
 
-TEKMER HPC aşağıdaki bileşenlerden oluşur:
+Performetrica HPC aşağıdaki bileşenlerden oluşur:
 
 - **Login Node** → giriş ve job gönderimi  
 - **Compute Node** → hesaplama  
@@ -77,13 +77,13 @@ SSH istemcisi kullanın:
 
 Bağlantı:
 
-**username@login.tekmer.performetrica.com**
+**username@login.superbilgisayar.tr**
 
 
 ### Linux ve macOS
 
 
-**ssh username@login.tekmer.performetrica.com**
+**ssh username@login.superbilgisayar.tr**
 
 
 ---
@@ -115,13 +115,13 @@ cp dosya1 dizin/
 ### Yükleme
 
 ```bash
-scp dosya username@login.tekmer.performetrica.com:/path/
+scp dosya username@login.superbilgisayar.tr:/path/
 ```
 
 ### İndirme
 
 ```bash
-scp username@login.tekmer.performetrica.com:/path/dosya
+scp username@login.superbilgisayar.tr:/path/dosya
 ```
 
 ---
@@ -186,5 +186,5 @@ sinfo
 
 
 📧 [contact@performetrica.com](mailto:contact@performetrica.com)  
-🌐 [https://tekmer.performetrica.com/](https://tekmer.performetrica.com/)
+🌐 [https://portal.superbilgisayar.tr/](https://portal.superbilgisayar.tr/)
 

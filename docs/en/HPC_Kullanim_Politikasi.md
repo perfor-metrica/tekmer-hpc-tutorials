@@ -1,16 +1,16 @@
-[![Documentation Status](https://readthedocs.org/projects/su-hpc-tutorials/badge/?version=latest)](https://su-hpc-tutorials.readthedocs.io/en/latest/?badge=latest)
+[![Documentation Status](https://readthedocs.org/projects/performetrica-hpc-tutorials/badge/?version=latest)](https://performetrica-hpc-tutorials.readthedocs.io/en/latest/?badge=latest)
 
-# TEKMER HPC Cluster Usage Policy
+# Performetrica HPC Cluster Usage Policy
 
-All users of the TEKMER HPC infrastructure agree to comply with the following rules.
+All users of the Performetrica HPC infrastructure agree to comply with the following rules.
 
 ---
 
 ## 1. Eligibility
 
-- Start-ups and researchers within TEKMER may use the HPC system.
+- Start-ups and researchers within Performetrica may use the HPC system.
 - External users may apply if they are involved in academic projects affiliated with a Turkish university.
-- All applications are subject to approval by TEKMER.
+- All applications are subject to approval by Performetrica.
 
 ---
 
@@ -35,7 +35,7 @@ via the portal.
 
 - Access is provided via SSH.
 - VPN access may be required depending on security policies.
-- All access is subject to TEKMER IT policies.
+- All access is subject to Performetrica IT policies.
 
 ---
 
@@ -88,8 +88,7 @@ Users are responsible for:
 Contact:
 
 - 📧 [contact@performetrica.com](mailto:contact@performetrica.com)
-- 📞 [+90 216 275 78 70](tel:+902162757870)
-- WhatsApp: [+90 533 066 49 66](https://wa.me/905330664966)
+- 📞 [+90 (850) 304 27 66](tel:+908503042766)
 ---
 
 ## 9. Security Reporting
@@ -100,10 +99,10 @@ Users must report any suspected vulnerabilities or security issues immediately.
 
 ## 10. Acknowledgement Requirement
 
-All publications using TEKMER HPC resources must:
+All publications using Performetrica HPC resources must:
 
-- Acknowledge TUZLA MUNICIPALITY TEKMER A.Ş.  
-- Be reported via the HPC portal  
+- Acknowledge Performetrica SuperComputing Center
+- Be reported via the HPC portal
 
 ---
 
@@ -111,7 +110,7 @@ All publications using TEKMER HPC resources must:
 
 The following are strictly prohibited:
 
-- Illegal activities  
+- Illegal activities
 - Actions compromising system security  
 - Unauthorized commercial usage  
 - Security testing or attacks on other systems  
@@ -143,5 +142,5 @@ Violation of this policy may result in:
 
 ## 15. Disclaimer
 
-All users are deemed to have accepted the [**TEKMER HPC Dislaimer**](Feragatname.md).
+All users are deemed to have accepted the [**Performetrica HPC Dislaimer**](Feragatname.md).
 

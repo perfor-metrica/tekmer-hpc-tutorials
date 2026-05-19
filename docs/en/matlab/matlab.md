@@ -1,4 +1,4 @@
-[![Documentation Status](https://readthedocs.org/projects/su-hpc-tutorials/badge/?version=latest)](https://su-hpc-tutorials.readthedocs.io/en/latest/?badge=latest)
+[![Documentation Status](https://readthedocs.org/projects/performetrica-hpc-tutorials/badge/?version=latest)](https://performetrica-hpc-tutorials.readthedocs.io/en/latest/?badge=latest)
 
 # MATLAB
 
@@ -14,7 +14,7 @@ MATLAB is a high-level programming and numerical computing environment used for:
 
 - Engineering and scientific computing  
 
-On TEKMER HPC, MATLAB can be used in:
+On Performetrica HPC, MATLAB can be used in:
 
 - **Interactive mode** (for testing and development)
 
@@ -28,7 +28,7 @@ On TEKMER HPC, MATLAB can be used in:
 
 Detailed installation and usage instructions are available at **Installation Tutorial** or with the link below:
 
-👉 https://tekmer-hpc-tutorials.readthedocs.io/en/latest/matlab/pdf/matlab-tutorial.pdf
+👉 https://performetrica-hpc-tutorials.readthedocs.io/en/latest/matlab/pdf/matlab-tutorial.pdf
 
 Includes:
 
@@ -51,7 +51,7 @@ For additional help:
 
 ---
 
-## Using MATLAB on TEKMER HPC
+## Using MATLAB on Performetrica HPC
 
 ### Load MATLAB
 
@@ -146,11 +146,11 @@ Parallel usage may be limited by available licenses
 
 Excessive resource usage may result in job termination
 
-Users must follow [TEKMER HPC Usage Policy](../../HPC_Kullanim_Politikasi.md)
+Users must follow [Performetrica HPC Usage Policy](../../HPC_Kullanim_Politikasi.md)
 
 Servers Installed
 
-MATLAB is available on the TEKMER HPC cluster.
+MATLAB is available on the Performetrica HPC cluster.
 
 For campus-wide or institutional access requests:
 

@@ -1,11 +1,11 @@
-[![Documentation Status](https://readthedocs.org/projects/su-hpc-tutorials/badge/?version=latest)](https://su-hpc-tutorials.readthedocs.io/en/latest/?badge=latest)
+[![Documentation Status](https://readthedocs.org/projects/performetrica-hpc-tutorials/badge/?version=latest)](https://performetrica-hpc-tutorials.readthedocs.io/en/latest/?badge=latest)
 
 # DISCLAIMER
 
-By using TEKMER HPC infrastructure, all users agree to the following terms:
+By using Performetrica HPC infrastructure, all users agree to the following terms:
 
 ## 1. Service Availability
-TEKMER HPC does not guarantee uninterrupted service.
+Performetrica HPC does not guarantee uninterrupted service.
 
 In case of:
 
@@ -13,7 +13,7 @@ In case of:
 - Infrastructure issues  
 - Unexpected outages  
 
-TEKMER HPC management shall not be held responsible for:
+Performetrica HPC management shall not be held responsible for:
 
 - Loss of work  
 - Delays  
@@ -25,7 +25,7 @@ During announced maintenance periods:
 - Running jobs may be terminated  
 - Services may become temporarily unavailable  
 
-TEKMER HPC management assumes no responsibility for resulting impacts.
+Performetrica HPC management assumes no responsibility for resulting impacts.
 
 ## 3. Resource Usage and Administrative Intervention
 System administrators reserve the right to intervene without prior notice in cases of:
@@ -58,7 +58,7 @@ Users are fully responsible for:
 - Data integrity  
 - Data security  
 
-TEKMER HPC is not responsible for:
+Performetrica HPC is not responsible for:
 
 - Data loss  
 - Data corruption  
@@ -77,7 +77,7 @@ The following data must NOT be stored on the system:
 - Data prohibited by government regulations  
 - Sensitive or confidential data  
 
-TEKMER HPC assumes no liability for misuse.
+Performetrica HPC assumes no liability for misuse.
 
 ## 8. Software Licensing
 - Software installed in shared environments may be accessible to other users  
@@ -100,7 +100,7 @@ Collected system usage data may be used for:
 and may be shared in aggregated or anonymized form.
 
 ## 10. Policy Changes
-TEKMER HPC reserves the right to modify:
+Performetrica HPC reserves the right to modify:
 
 - Resource allocation policies  
 - Security policies  

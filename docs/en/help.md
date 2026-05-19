@@ -1,6 +1,6 @@
 # Contacts and Support
 
-For all inquiries related to TEKMER HPC services, including:
+For all inquiries related to Performetrica HPC services, including:
 
 - System usage
 
@@ -44,7 +44,7 @@ Before submitting a request, please check:
 
 - The [**FAQ**](faq.md) section
 
-- Relevant [**tutorials and documentation**](tekmer-index.md)
+- Relevant [**tutorials and documentation**](performetrica-index.md)
 
 - Your job output/error logs
 
@@ -118,6 +118,6 @@ To get faster support:
 
 Support channels:
 
-- Ticket system: [tekmer.performetrica.com](https://tekmer.performetrica.com/)
+- Ticket system: [portal.superbilgisayar.tr](https://portal.superbilgisayar.tr/)
 - Telephone
 
